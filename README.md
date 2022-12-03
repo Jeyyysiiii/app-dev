@@ -6,6 +6,7 @@ My First Repository
 2. Aqua
 3. Megumin
 4. Darkness
+
 **Enemies**
 1. Wiz
 2. Beldia
